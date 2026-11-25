@@ -27,7 +27,7 @@ I'm hooked on <img src="./assets/tech/react-native.svg" height="18" align="absmi
 ## <img src="./assets/icons/numbers.svg" width="24" height="24" align="absmiddle" alt=""> In numbers
 
 <p align="center">
-  <img src="./assets/numbers.svg" width="900" alt="In numbers: 6+ years of experience (commercial projects); ~40 commercial repositories (mostly private); ~3,000 commits (in commercial code). Languages: Polish Native, English B2, Spanish B1. Domains: fintech, sports, e-commerce, accounting.">
+  <img src="./assets/numbers.svg" width="900" alt="In numbers: 6+ years of experience (commercial projects); ~40 commercial repositories (mostly private); ~3,000 commits (in commercial code). Domains: fintech, sports, e-commerce, accounting.">
 </p>
 
 <p align="center">
