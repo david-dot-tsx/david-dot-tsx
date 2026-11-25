@@ -6,7 +6,7 @@
 
 <a href="https://www.linkedin.com/in/david-dot-tsx/"><img src="./assets/links/linkedin.svg" height="40" alt="LinkedIn: linkedin.com/in/david-dot-tsx"></a>
 <a href="mailto:daviddottsx@gmail.com"><img src="./assets/links/email.svg" height="40" alt="Email: daviddottsx@gmail.com"></a>
-<a href="https://fitmaster-apps-web.vercel.app"><img src="./assets/links/fitmaster.svg" height="40" alt="FitMaster demo"></a>
+<a href="https://github.com/david-dot-tsx/fitmaster-apps"><img src="./assets/links/fitmaster-github.svg" height="40" alt="FitMaster repo on GitHub"></a>
 
 </div>
 
@@ -59,7 +59,6 @@
 <div align="center">
 
 <a href="https://github.com/david-dot-tsx/fitmaster-apps"><img src="./assets/links/code.svg" height="40" alt="FitMaster: Code"></a>
-<a href="https://fitmaster-apps-web.vercel.app"><img src="./assets/links/demo.svg" height="40" alt="FitMaster: Live demo"></a>
 
 </div>
 
