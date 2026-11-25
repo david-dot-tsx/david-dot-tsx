@@ -13,7 +13,7 @@
 ## <img src="./assets/icons/about.svg" width="24" height="24" align="absmiddle" alt=""> About
 
 <p align="center">
-  <img src="./assets/about.svg" width="900" alt="About me as a TypeScript object. Frontend &amp; Full-stack Developer, 7+ years of experience since February 2019, React and TypeScript since 2021. approach: [ start with the business needs, clarify requirements and edge cases, design the solution, carry it through to a working UI, ], coreStrengths: [ TypeScript, React, Next.js, Tailwind CSS, TanStack Query, Zod, Zustand, ], fullStack: [tRPC, Prisma, PostgreSQL, Fastify], bestAt: complex, multi-step interfaces, credit applications, lending, trading crossPlatform: web, mobile and API, one type-safe contract, enjoys: building from scratch, finding creative solutions, hookedOn: React Native, a fitness app for athletes, a party game you control by tilting">
+  <img src="./assets/about-ts.svg" width="900" alt="About me as a TypeScript object. Frontend &amp; Full-stack Developer, 7+ years of experience since February 2019, React and TypeScript since 2021. approach: [ start with the business needs, clarify requirements and edge cases, design the solution, carry it through to a working UI, ], coreStrengths: [ TypeScript, React, Next.js, Tailwind CSS, TanStack Query, React Hook Form, Zod, Zustand, ], fullStack: [tRPC, Prisma, PostgreSQL], bestAt: complex, multi-step interfaces, credit applications, lending, trading crossPlatform: web, mobile and API, one type-safe contract, enjoys: building from scratch, finding creative solutions, hookedOn: React Native, a fitness app for athletes, a party game you control by tilting">
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@
 ## <img src="./assets/icons/stack.svg" width="24" height="24" align="absmiddle" alt=""> Tech stack
 
 <p align="center">
-  <img src="./assets/stack-tree.svg" width="900" alt="Tech stack as a directory tree. Core strengths: TypeScript, React, Next.js, Tailwind CSS, TanStack Query, Zod, Zustand, React Hook Form, tRPC, Prisma. Languages: TypeScript, JavaScript, HTML, CSS, SQL; Frontend: React, Next.js, TanStack Query, TanStack Table, TanStack Router, Zustand, React Hook Form, Zod, i18next; UI &amp; styling: Tailwind CSS, shadcn/ui, Radix UI, MUI, Ant Design, Framer Motion; Mobile: React Native, Expo, NativeWind; Backend &amp; API: Node.js, Fastify, tRPC, GraphQL (client), Better Auth, JWT; Databases: PostgreSQL, Prisma; Web testing: Vitest, Jest, React Testing Library, MSW, Playwright; Mobile testing: Maestro; AI-assisted development: Cursor, Claude Code; DevOps &amp; tooling: Docker, GitHub Actions, Turborepo, pnpm, Vite, Vercel, Expo EAS, Git.">
+  <img src="./assets/tech-tree.svg" width="900" alt="Tech stack as a directory tree. Core strengths: TypeScript, React, Next.js, Tailwind CSS, TanStack Query, Zod, Zustand, React Hook Form, tRPC, Prisma. Languages: TypeScript, JavaScript, HTML, CSS, SQL; Frontend: React, Next.js, TanStack Query, TanStack Table, TanStack Router, Zustand, React Hook Form, Zod, i18next; UI &amp; styling: Tailwind CSS, shadcn/ui, Radix UI, MUI, Ant Design, Framer Motion; Mobile: React Native, Expo, NativeWind; Backend &amp; API: Node.js, Fastify, tRPC, GraphQL (client), Better Auth, JWT; Databases: PostgreSQL, Prisma; Web testing: Vitest, Jest, React Testing Library, MSW, Playwright; Mobile testing: Maestro; AI-assisted development: Cursor, Claude Code; DevOps &amp; tooling: Docker, GitHub Actions, Turborepo, pnpm, Vite, Vercel, Expo EAS, Git.">
 </p>
 
 <p align="center">
